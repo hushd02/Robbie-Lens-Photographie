@@ -1,20 +1,35 @@
+body{
+    /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
+    background-color: #e1ebee ;
+    font-family: 'Manrope' , sans-serif;
+    font-size: 1em;
+    margin: 40px;
+
+}
 h1{
-    color: red;
-}
-p{
-    color: blue;
-}
-.clsh1{
-    color:blueviolet
-    
+    color:  #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    text-align: center;
 }
 #logo{
     width: 100px;
     height: auto;
 }
-strong{
-   color: #A5B4FC;    
+p{
+    font-size: 1.1em;
+   
+}
+em{
+   color: #a5b4fc;
+   font-style: normal;    
 }
 a{
     color: black;
+    text-decoration: none;
+    font-family: manrope;
+}
+li{
+font-size: 1em;
+font-family: manrope;
 }
