@@ -1,9 +1,9 @@
 body{
     /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
-    background-color: #e1ebee ;
+    background-color: #1F2039 ;
     font-family: 'Manrope' , sans-serif;
     font-size: 1em;
-    margin: 40px;
+    
 
 }
 h1{
@@ -16,20 +16,33 @@ h1{
     width: 100px;
     height: auto;
 }
-p{
-    font-size: 1.1em;
-   
+p,
+li {
+  font-size: 1.1em;
+  color: #f9f8ff;
 }
 em{
    color: #a5b4fc;
    font-style: normal;    
 }
 a{
-    color: black;
+    color: #242424 ;
     text-decoration: none;
-    font-family: manrope;
+    
 }
-li{
-font-size: 1em;
-font-family: manrope;
+
+.entete,
+.pieddepage{
+    background-color:  white ;
+    
+    
+}
+h2{
+    
+    color: F9F8FF  ;
+    
+}
+.clslien{
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
 }
