@@ -15,10 +15,20 @@ Le site met en valeur les photos et les prestations de Robbie Lens à travers un
 
 ## 🚀 Technologies utilisées
 
-- **HTML5** – pour la structure du site  
-- **CSS3** – pour le style, les animations et la mise en page responsive  
-- **Google Fonts** – pour la typographie  
+🧠 Ressources externes
 
+Voici les ressources utilisées pour le développement et le design du site :
+
+--Typographie	Google Fonts Police principale du site
+	
+--Palette de couleurs	 Coolors  Génération et harmonisation des couleurs
+	
+--Sélecteur de couleurs	W3Schools Color Picker  Choix et ajustement précis des couleurs
+	
+--Dégradés CSS	UI Gradients – Cherryblossoms  Création d’un dégradé de fond élégant
+	
+--Générateur de dégradés	CSS Gradient  Génération et visualisation de dégradés personnalisés
+	
 
 
 ## ⚙️ Installation & Utilisation
