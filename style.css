@@ -45,4 +45,11 @@ h2{
 .clslien{
     background: linear-gradient(#8e86b5, #acaeed);
     color: white;
+    border-radius: 50px;
+}
+.clsapropos{
+    border-right: 5px solid #8e86b5; 
+    border-bottom: 5px solid  #8e86b5;
+    
+
 }

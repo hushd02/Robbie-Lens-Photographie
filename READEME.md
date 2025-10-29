@@ -28,6 +28,9 @@ Voici les ressources utilisées pour le développement et le design du site :
 --Dégradés CSS	UI Gradients – Cherryblossoms  Création d’un dégradé de fond élégant
 	
 --Générateur de dégradés	CSS Gradient  Génération et visualisation de dégradés personnalisés
+
+--Bordures https://9elements.github.io/fancy-border-radius/
+--Effet d’ombre  https://getcssscan.com/css-box-shadow-examples
 	
 
 
