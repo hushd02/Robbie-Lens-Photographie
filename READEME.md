@@ -19,19 +19,19 @@ Le site met en valeur les photos et les prestations de Robbie Lens à travers un
 
 Voici les ressources utilisées pour le développement et le design du site :
 
---Typographie	Google Fonts Police principale du site
+--Typographie :	 Google Fonts Police principale du site
 	
---Palette de couleurs	 Coolors  Génération et harmonisation des couleurs
+--Palette de couleurs :	 Coolors  Génération et harmonisation des couleurs
 	
---Sélecteur de couleurs	W3Schools Color Picker  Choix et ajustement précis des couleurs
+--Sélecteur de couleurs :	W3Schools Color Picker  Choix et ajustement précis des couleurs
 	
---Dégradés CSS	UI Gradients – Cherryblossoms  Création d’un dégradé de fond élégant
+--Dégradés : CSS	UI Gradients – Cherryblossoms  Création d’un dégradé de fond élégant
 	
---Générateur de dégradés	CSS Gradient  Génération et visualisation de dégradés personnalisés
+--Générateur de dégradés :	CSS Gradient  Génération et visualisation de dégradés personnalisés
 
 --Bordures https://9elements.github.io/fancy-border-radius/
 --Effet d’ombre  https://getcssscan.com/css-box-shadow-examples
-	
+--Compatibilité des fonctionnalités de HTML et CSS sur différents navigateurs : https://caniuse.com/
 
 
 ## ⚙️ Installation & Utilisation
