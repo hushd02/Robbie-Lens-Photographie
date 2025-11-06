@@ -1,3 +1,6 @@
+*{
+ margin: 0;
+}
 body{
     /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
     background-color: #1F2039 ;
@@ -41,6 +44,10 @@ a:hover{
 .entete,
 .pieddepage{
     background-color:  white ; 
+    padding-top : 20px;
+    padding-bottom : 20px;
+    padding-left: 50px ;
+    padding-right: 50px ;
 }
 
 
@@ -57,9 +64,21 @@ h2{
 .clsapropos{
     border-right: 5px solid #8e86b5; 
     border-bottom: 5px solid  #8e86b5;
-    
-
+    padding: 50px;
+}
+.clsapropos h2{
+    margin-top: 30px;
+}
+.clsapropos ul{
+    margin-top : 30px;
 }
 .lienlogo:hover{
     opacity: 0.5;
+}
+section{
+    padding : 80px;
+}
+.clsmain{
+    width : 50%;
+    margin: auto;
 }
